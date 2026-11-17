@@ -81,7 +81,7 @@ footer { border-top: 1px solid var(--line); margin-top: 40px; }
 
 /* Home */
 .hero { padding: 72px 0 32px; display: flex; flex-direction: column; align-items: flex-start; gap: 18px; }
-.hero svg.icon { width: 112px; height: 112px; border-radius: 26px; box-shadow: 0 10px 30px rgba(0,0,0,.14); }
+.hero svg.icon { width: 96px; height: 96px; }
 .hero h1 .am { font-family: 'Noto Sans Ethiopic', sans-serif; color: var(--ink2); font-size: .62em; margin-left: 10px; letter-spacing: 0; }
 .lead { font-size: 21px; line-height: 1.5; color: var(--ink2); margin: 0; max-width: 34ch; }
 .soon { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; font-size: 15px; color: var(--ink); background: var(--card); border: 1px solid var(--line); padding: 10px 18px; border-radius: 999px; }
